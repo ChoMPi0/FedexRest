@@ -33,7 +33,7 @@ FedEx Rest API documentation https://developer.fedex.com/api/en-us/get-started.h
 
 ### Usage
 #### Installation
-`composer require whatarmy/fedex-rest "^0.5"`
+`composer require chompi0/fedex-rest "^0.5"`
 #### Authorization
 ###### Example
 ```php
